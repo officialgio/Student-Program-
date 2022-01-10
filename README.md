@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="./Project/images/ScreenShot.png">
+    <img width="600" src="./Project/images/ScreenShot.png">
 </p>
 
 <h1 align="center">Student Program</h1>
