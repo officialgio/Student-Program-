@@ -5,7 +5,7 @@
 <h1 align="center">Student Program</h1>
 
 <div align="center">
-A program that stores rolling Students Data into the Local Storage </br></br>
+A program that stores student Data into a Data Structure </br></br>
 </div>
 
 ### 📊 Project idea: Object-Oriented Programming Introductory
